@@ -13,7 +13,7 @@
 ***
 
 #  Installation
-- Clone the repository either by Git CLI or in Terminal by  ``` Git Clone https://github.com/gargk747/AutoMatify.git ```
+- Clone the repository either by Git CLI or in Terminal by  ``` https://github.com/mrityunjay567/automatifyf.git ```
 - Open the project in Android Studio and build the project
 - Then generate the APK file or run it on the emulator or your physical device
 - Or can simply download the application from this link [Click Here](https://github.com/gargk747/AutoMatify/blob/main/AutoMatify.apk)
